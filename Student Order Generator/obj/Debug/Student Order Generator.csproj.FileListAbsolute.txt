@@ -1,0 +1,16 @@
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\bin\Debug\Student Order Generator.exe.config
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\bin\Debug\Student Order Generator.exe
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\bin\Debug\Student Order Generator.pdb
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\obj\Debug\AddStudents.g.cs
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\obj\Debug\MainWindow.g.cs
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\obj\Debug\App.g.cs
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\obj\Debug\Student Order Generator_MarkupCompile.cache
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\obj\Debug\Student Order Generator_MarkupCompile.lref
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\obj\Debug\AddStudents.baml
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\obj\Debug\MainWindow.baml
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\obj\Debug\Student Order Generator.g.resources
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\obj\Debug\Student_Order_Generator.Properties.Resources.resources
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\obj\Debug\Student Order Generator.csproj.GenerateResource.cache
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\obj\Debug\Student Order Generator.csproj.CoreCompileInputs.cache
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\obj\Debug\Student Order Generator.exe
+C:\Users\hainaalfonso\Documents\GitHub\Student Order Generator\Student Order Generator\obj\Debug\Student Order Generator.pdb
